@@ -1,0 +1,6 @@
+module Pods_liut_RN_liut_RNTests {
+  umbrella header "Pods-liut_RN-liut_RNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
